@@ -1,0 +1,475 @@
+{
+
+  "address": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "short_name": "CCUST SHORT NAME",
+
+      "name_1": "MR. CUSTOMER1",
+
+      "name_2": null,
+
+      "street_addr": "ELIAS SARKIS AVENUE",
+
+      "town_country": "FANAR - EL METN-LEBANON",
+
+      "post_code": "11-5605",
+
+      "country": null,
+
+      "instructions": "instr",
+
+      "building_addr": "BYBLOS TOWER",
+
+      "building_num": "12",
+
+      "attent": "C/O BYBLOS TOWER - F.1",
+
+      "postal_code": "1123a",
+
+      "mail_flag": "st",
+
+      "mail_remark": "mail remarkkk",
+
+      "town_residence": "ASH",
+
+      "mail_town": "LB0101",
+
+      "mail_country": "LB",
+
+      "phone_num": "01335200",
+
+      "other_flag": "11",
+
+      "reference": null,
+
+      "comm_ctry_code": "LB"
+
+    }
+
+  ],
+
+  "recordFound": true,
+
+  "restrictions": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "posting_restriction": 56,
+
+      "restriction_desc": "!!! Byblos PRIORITY Customer !!!",
+
+      "posting_restriction_reason": "restriction reason"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "posting_restriction": 1,
+
+      "restriction_desc": "Post No Debits",
+
+      "posting_restriction_reason": "restriction reason"
+
+    }
+
+  ],
+
+  "dependents": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "dependent_type": "CHILD",
+
+      "dependent_first_name": "CHILD1",
+
+      "dependent_last_name": null,
+
+      "dependent_education": "Graduate",
+
+      "dependent_profession": 8003,
+
+      "dependent_birth_date": "1986-05-04T21:00:00Z",
+
+      "dependent_dependent": "1"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "dependent_type": "CHILD",
+
+      "dependent_first_name": "CHILD2",
+
+      "dependent_last_name": null,
+
+      "dependent_education": "Highschool",
+
+      "dependent_profession": 8003,
+
+      "dependent_birth_date": "1986-06-03T21:00:00Z",
+
+      "dependent_dependent": "2"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "dependent_type": "SPOUSE",
+
+      "dependent_first_name": "spouse2Name-1234567",
+
+      "dependent_last_name": "spouse2Family-1234567",
+
+      "dependent_education": null,
+
+      "dependent_profession": null,
+
+      "dependent_birth_date": null,
+
+      "dependent_dependent": null
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "dependent_type": "SPOUSE",
+
+      "dependent_first_name": "spouseName-1234567",
+
+      "dependent_last_name": "spouseFamily-1234567",
+
+      "dependent_education": null,
+
+      "dependent_profession": null,
+
+      "dependent_birth_date": null,
+
+      "dependent_dependent": null
+
+    }
+
+  ],
+
+  "communication": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "EMAIL",
+
+      "communication": "CUSTOMER1234567@GMAIL.COM",
+
+      "communication_source": "DEBIT CARDS"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "FAX",
+
+      "communication": "03123456",
+
+      "communication_source": "T24 - CUSTOMERBYB"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "GSM",
+
+      "communication": "9613123456",
+
+      "communication_source": "MOBILE BANKING"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "HOME PHONE",
+
+      "communication": "9611123456",
+
+      "communication_source": "DEBIT CARDS"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "NFL",
+
+      "communication": "No foxed line",
+
+      "communication_source": "T24 - CUSTOMER"
+
+    },
+
+    {
+
+      "customer_code": "1234567",
+
+      "communication_type": "SMS PHONE",
+
+      "communication": "70133331",
+
+      "communication_source": "DEBIT CARDS"
+
+    }
+
+  ],
+
+  "relationship": [
+
+    {
+
+      "related_cif": "1234567",
+
+      "relation_code": "31",
+
+      "relation_desc": "HOLDER PROXY",
+
+      "customer_code": "1650333",
+
+      "proxy_issuing_date": "2004-01-18T22:00:00Z",
+
+      "proxy_expiry_date": "2008-08-12T21:00:00Z",
+
+      "proxy_details": "FULL PROXY NUM : 2397",
+
+      "proxy_details_2": null,
+
+      "rel_bet_proxy": "FAMILY MEMBER",
+
+      "rel_proxy_desc": "FATHER",
+
+      "opened_by_p": "NO",
+
+      "active_by_p": "NO",
+
+      "proxy_status": "Cancelled",
+
+      "reason_of_cancelled_proxy": "Account/CIF Closure"
+
+    },
+
+    {
+
+      "related_cif": "1234567",
+
+      "relation_code": "62",
+
+      "relation_desc": "BROTHER/SISTER",
+
+      "customer_code": "1652324",
+
+      "proxy_issuing_date": null,
+
+      "proxy_expiry_date": null,
+
+      "proxy_details": null,
+
+      "proxy_details_2": null,
+
+      "rel_bet_proxy": null,
+
+      "rel_proxy_desc": null,
+
+      "opened_by_p": null,
+
+      "active_by_p": null,
+
+      "proxy_status": null,
+
+      "reason_of_cancelled_proxy": null
+
+    }
+
+  ],
+
+  "info": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "first_name": "FirstName-1234567",
+
+      "last_name": "FamilyName-1234567",
+
+      "title_code": "MR.",
+
+      "full_name": "FirstName-1234567 FatherName-1234567 FamilyName-1234567",
+
+      "father_first_name": "FatherName-1234567",
+
+      "father_family_name": "FatherFamily-1234567",
+
+      "mother_first_name": "MotherName-1234567",
+
+      "mother_family_name": "MotherFamily-1234567",
+
+      "gender": "MALE",
+
+      "marital_status": "SINGLE",
+
+      "date_of_birth": "1987-01-20T22:00:00Z",
+
+      "place_of_birth": "LB4567",
+
+      "place_of_label": "MINYEH - TRIPOLI-LEBANON",
+
+      "nationality": "LB",
+
+      "nationality_desc": "Lebanon",
+
+      "education": "GRA",
+
+      "education_desc": "Graduate",
+
+      "profession": 8443,
+
+      "profession_desc": "Manager",
+
+      "industry": 502,
+
+      "industry_desc": "Retail",
+
+      "job_position": "EMPLOYER",
+
+      "company_no": "922265",
+
+      "company_name": "CompName-4504004 CompName2-4504004",
+
+      "bldg_name": "BldgName-4504004",
+
+      "bldg_no": "BldgNo-4504004",
+
+      "street": "Street-4504004 Street2-4504004",
+
+      "ref_land_mark": "RefLandmark-4504004",
+
+      "comp_reg_id": "213",
+
+      "comp_reg_place": "PLACE",
+
+      "comp_reg_date": "2019-01-22T22:00:00Z",
+
+      "comp_income": "1- USD 0 - 25,000",
+
+      "comp_income_gt60k": "60000",
+
+      "residence": "LB",
+
+      "residence_desc": "Lebanon",
+
+      "pers_income": "1- USD 0 - 25,000",
+
+      "src_funds": "FROM HIS WORK(BYBLOS STAFF) SECOND SRC OF FUNDS",
+
+      "branch_no": 275,
+
+      "branch_name": "BATROUN BRANCH",
+
+      "customer_type": 1,
+
+      "customer_type_desc": "Private",
+
+      "client_priority": "staff",
+
+      "rel_manager": 80,
+
+      "rel_manager_desc": "Sassine/BM",
+
+      "customer_status": 1,
+
+      "customer_status_des": "NORMAL CLIENT",
+
+      "cif_stat": "CL",
+
+      "cif_stat_desc": null,
+
+      "open_date": "2005-06-20T21:00:00Z",
+
+      "bdl_blacklist": "no",
+
+      "byb_blacklist": "no",
+
+      "mail_box": "MAILBOX-123456",
+
+      "mail_addr": "WORK",
+
+      "cust_care_of": "C/O ANYONE AT THIS ADDRESS",
+
+      "custbyb_care_of": "CARE",
+
+      "class_code": "N",
+
+      "class_code_desc": null,
+
+      "cif_segment": "CUSTOMER SEGMENT",
+
+      "group_segment": "GROUP SEGMENT"
+
+    }
+
+  ],
+
+  "register": [
+
+    {
+
+      "customer_code": "1234567",
+
+      "register_type": "ID",
+
+      "register_type_desc": "CIVIL RECORD",
+
+      "register_legal_id": "12345",
+
+      "register_nationality": "LB",
+
+      "register_nationality_desc": "Lebanon",
+
+      "register_town": "RegTown-1234567",
+
+      "register_issue_date": "2000-07-20T21:00:00Z",
+
+      "register_soc_perd": null,
+
+      "register_expire": "2010-07-09T21:00:00Z",
+
+      "register_renew_mode": 1,
+
+      "register_pub_priv": "PU"
+
+    }
+
+  ],
+
+  "status": "success"
+
+}
